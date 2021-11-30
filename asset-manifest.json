@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chapter4-task3-react-form-validation/static/css/main.cf0083c8.chunk.css",
+    "main.js": "/chapter4-task3-react-form-validation/static/js/main.0321c351.chunk.js",
+    "main.js.map": "/chapter4-task3-react-form-validation/static/js/main.0321c351.chunk.js.map",
+    "runtime-main.js": "/chapter4-task3-react-form-validation/static/js/runtime-main.f5a44d2a.js",
+    "runtime-main.js.map": "/chapter4-task3-react-form-validation/static/js/runtime-main.f5a44d2a.js.map",
+    "static/js/2.a9ecf1a4.chunk.js": "/chapter4-task3-react-form-validation/static/js/2.a9ecf1a4.chunk.js",
+    "static/js/2.a9ecf1a4.chunk.js.map": "/chapter4-task3-react-form-validation/static/js/2.a9ecf1a4.chunk.js.map",
+    "index.html": "/chapter4-task3-react-form-validation/index.html",
+    "static/css/main.cf0083c8.chunk.css.map": "/chapter4-task3-react-form-validation/static/css/main.cf0083c8.chunk.css.map",
+    "static/js/2.a9ecf1a4.chunk.js.LICENSE.txt": "/chapter4-task3-react-form-validation/static/js/2.a9ecf1a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5a44d2a.js",
+    "static/js/2.a9ecf1a4.chunk.js",
+    "static/css/main.cf0083c8.chunk.css",
+    "static/js/main.0321c351.chunk.js"
+  ]
+}
